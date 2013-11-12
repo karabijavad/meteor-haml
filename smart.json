@@ -1,7 +1,7 @@
 {
     "packages":{
         "node-my": {
-            "git": "git@github.com:myAccount/node-my.git"
+            "git": "git@github.com:karabijavad/meteor-haml.git"
         }
     }
 }
