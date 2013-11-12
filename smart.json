@@ -1,0 +1,7 @@
+{
+    "packages":{
+        "node-my": {
+            "git": "git@github.com:myAccount/node-my.git"
+        }
+    }
+}
